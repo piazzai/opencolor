@@ -19,11 +19,11 @@ The package's only dependency is [xcolor](https://www.ctan.org/pkg/xcolor), whic
 
 ## Installation
 
-The package is hosted on CTAN and distributed as part of MikTeX and TeXLive. It can also be installed manually by cloning this repository in your `$HOME/texmf/tex/latex` folder. If you do not have this folder in your filesystem, [you can create it](https://www.ias.edu/math/computing/faq/local-latex-style-files).
+The package is hosted on CTAN and distributed as part of MikTeX and TeXLive. It can also be installed manually by cloning this repository in your `$HOME/texmf/tex/latex` folder. If you do not have this folder, [you can create it](https://www.ias.edu/math/computing/faq/local-latex-style-files).
 
 ## Usage
 
-Optimal choice of colors for a document is a responsibility of the user, but UI design principles can provide helpful guidelines. For example, in beamer presentations, `oc-gray-1` could be used instead of white and `oc-gray-9` could be used instead of black in order to reduce eye strain. If a color like `oc-teal-6` is used for a plot, then it would be best for other plots to use colors at the same brightness level, like `oc-orange-6`, to ensure visual consistency.
+The choice of colors for a document is a responsibility of the author, but UI design principles can provide helpful guidelines. For example, in a beamer presentation, `oc-gray-1` could be used instead of white and `oc-gray-9` instead of black in order to reduce eye strain. If a color like `oc-teal-6` is used for a plot, then it would be best for other plots to use colors at the same brightness level, like `oc-orange-6`, for visual consistency.
 
 ## Minimal working example
 
