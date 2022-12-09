@@ -11,7 +11,7 @@ This is a simple LaTeX package that provides hexadecimal color definitions of th
 
 Open Colors are organized according to 13 hues (gray, red, pink, grape, violet, indigo, blue, cyan, teal, green, lime, yellow, orange) and 10 brightness levels (0–9). The naming convention is `oc-(color)-(number)`. At the same brightness level, the perceived brightness of different hues aims to be constant.
 
-The package's main dependency is [xcolor](https://www.ctan.org/pkg/xcolor), which is included in most LaTeX distributions. This is loaded with the `table` option, which automatically loads [colortbl](https://www.ctan.org/pkg/colortbl) as well.
+The package's main dependency is [xcolor](https://www.ctan.org/pkg/xcolor), which is included in most LaTeX distributions.
 
 ## Demo
 
