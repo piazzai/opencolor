@@ -1,5 +1,5 @@
 <!--
-opencolor-latex v1.1.0
+opencolor-latex v1.0.0
 Author: Michele Piazzai
 Contact: michele.piazzai@uc3m.es
 License: MIT
