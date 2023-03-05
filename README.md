@@ -1,11 +1,11 @@
 <!--
-opencolor-latex v1.0.0
+opencolor v1.0.1
 Author: Michele Piazzai
 Contact: michele.piazzai@uc3m.es
 License: MIT
 -->
 
-# opencolor-latex
+# opencolor
 
 This is a simple LaTeX package that provides hexadecimal color definitions of the 130 colors included in the [Open Color](https://yeun.github.io/open-color/) library (v1.9.1). Open Color's goal is to provide a selection of colors optimized for UI design. Although LaTeX is a typesetting system primarily intended for print, many of the documents it produces never get printed, in which case it makes sense to use colors suitable for on-screen reading.
 
@@ -15,7 +15,7 @@ The package's only dependency is [xcolor](https://www.ctan.org/pkg/xcolor), whic
 
 ## Demo
 
-![](https://github.com/piazzai/opencolor-latex/blob/master/demo-opencolor.png)
+![](https://github.com/piazzai/opencolor/blob/master/demo-opencolor.png)
 
 ## Installation
 
