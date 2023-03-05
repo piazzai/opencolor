@@ -19,11 +19,11 @@ The package's only dependency is [xcolor](https://www.ctan.org/pkg/xcolor), whic
 
 ## Installation
 
-The package is hosted on CTAN and distributed as part of MikTeX and TeXLive. It can also be installed manually by cloning this repository in your `$HOME/texmf/tex/latex` folder. If you do not have this folder, [you can create it](https://www.ias.edu/math/computing/faq/local-latex-style-files).
+The package is hosted on CTAN and distributed as part of MikTeX and TeXLive. It can also be installed manually by cloning this repository in your `$HOME/texmf/tex/latex` folder. If you do not have it, [you can create it](https://www.ias.edu/math/computing/faq/local-latex-style-files).
 
 ## Usage
 
-The choice of colors for a document is a responsibility of the author, but UI design principles can provide helpful guidelines. For example, in a beamer presentation, `oc-gray-1` could be used instead of white and `oc-gray-9` instead of black in order to reduce eye strain. If a color like `oc-teal-6` is used for a plot, then it would be best for other plots to use colors at the same brightness level, like `oc-orange-6`, for visual consistency.
+The choice of colors for a document is a responsibility of the author, but UI design principles can provide helpful guidelines. For example, in a beamer presentation, `oc-gray-1` could be used instead of white and `oc-gray-9` instead of black to reduce eye strain. If a color like `oc-teal-6` is used for a plot, then it would be best for other plots to use colors at the same brightness level, like `oc-orange-6`, for consistency.
 
 ## Minimal working example
 
@@ -42,4 +42,4 @@ The choice of colors for a document is a responsibility of the author, but UI de
 
 ## Bugs
 
-The package merely loads xcolor and then provides color definitions, so any error or warning is most likely due to xcolor. Nonetheless, if you encounter any problem using this package, please [open an issue](https://github.com/piazzai/opencolor-latex/issues).
+The package merely loads xcolor and then provides color definitions, so any error or warning is most likely due to xcolor. Nonetheless, if you encounter any problem using this package, please [open an issue](https://github.com/piazzai/opencolor/issues).
