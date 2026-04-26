@@ -1,5 +1,5 @@
 <!--
-opencolor v1.0.3
+opencolor v1.0.3 2026-04-26
 Michele Piazzai <hello@piazzai.addy.io>
 https://piazzai.github.io/
 https://mit-license.org/
