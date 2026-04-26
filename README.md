@@ -7,7 +7,7 @@ https://mit-license.org/
 
 # opencolor
 
-This is a simple LaTeX package that provides hexadecimal color definitions of the 130 colors included in the [Open Color](https://yeun.github.io/open-color/) library (v1.9.1). Open Color's goal is to provide a selection of colors optimized for UI design. Although LaTeX is a typesetting system primarily intended for print, many of the documents it produces never get printed, in which case it makes sense to use colors suitable for on-screen reading.
+This is a simple LaTeX package that provides hexadecimal color definitions of the 130 colors included in the [Open Color](https://yeun.github.io/open-color/) library. Open Color's goal is to provide a selection of colors optimized for UI design. Although LaTeX is a typesetting system primarily intended for print, many of the documents it produces never get printed, in which case it makes sense to use colors suitable for on-screen reading.
 
 Open Colors are organized according to 13 hues (gray, red, pink, grape, violet, indigo, blue, cyan, teal, green, lime, yellow, orange) and 10 brightness levels (0–9). The naming convention is `oc-(color)-(number)`. At the same brightness level, the perceived brightness of different hues aims to be constant.
 
